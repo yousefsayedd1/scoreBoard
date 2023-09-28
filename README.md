@@ -1,1 +1,2 @@
 # scoreBoard
+simple scoreboard
